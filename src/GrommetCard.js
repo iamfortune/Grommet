@@ -90,6 +90,7 @@ export default function GrommetCard() {
             <CardButton secondary>LEARN MORE</CardButton>
           </Div>
         </Card>
+
         <Card center secondary>
           <Div>
             <Div>
@@ -113,6 +114,7 @@ export default function GrommetCard() {
             <CardButton>LEARN MORE</CardButton>
           </Div>
         </Card>
+
         <Card right>
           <Div>
             <Div>
@@ -140,3 +142,6 @@ export default function GrommetCard() {
     </>
   );
 }
+
+
+
